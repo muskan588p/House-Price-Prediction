@@ -24,8 +24,8 @@ Model
     Preprocessing: Handled missing data, normalized features, and encoded categorical variables.
     Algorithms:
         Linear Regression
-        Random Forest
         Decision Trees
+        Neural Networks
     Evaluation Metrics: RMSE (Root Mean Squared Error), R² (Coefficient of Determination)
 
 Results and Analysis
